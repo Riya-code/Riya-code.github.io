@@ -1,7 +1,7 @@
 title:  Riya Kumari
 name: Riya 
 email: rj220699@gmail.com
-description: Portfolio
+description: Tech Blog
 
 baseurl: "/blog"
 url: "Riya-code.github.io"
@@ -11,27 +11,27 @@ display_footer: none #change this to 'none' if you want to hide the footer copyr
 parallax_image_one: assets/images/startup3.jpg # These are the images used for the parallax background
 parallax_image_two: assets/images/startup3.jpg
 
-project_one: "In a nutshell"
-project_one_description: "HackerRank - rj220699\n JAVA"
-project_one_url: https://github.com/jameshamann/jekyll-material-theme
+project_one: "In a Nutshell\n HackerRank : rj220699\n LinkedIn :"
+#project_one_description: "HackerRank - rj220699\n JAVA"
+#project_one_url: https://github.com/jameshamann/jekyll-material-theme
 project_one_icon: location_on
 
-project_two: Project
-project_two_description: Describe it!
-project_two_url: https://github.com/jameshamann/jekyll-material-theme
-project_two_icon: photo_camera
+#project_two: Project
+#project_two_description: Describe it!
+#project_two_url: https://github.com/jameshamann/jekyll-material-theme
+#project_two_icon: photo_camera
 
 
-project_three: Project
-project_three_description: Describe it!
-project_three_url: https://github.com/jameshamann/jekyll-material-theme
-project_three_icon: hotel
+#project_three: Project
+#project_three_description: Describe it!
+#project_three_url: https://github.com/jameshamann/jekyll-material-theme
+#project_three_icon: hotel
 
 
-project_four: Project
-project_four_description: Describe it!
-project_four_url: https://github.com/jameshamann/jekyll-material-theme
-project_four_icon: restaurant
+#project_four: Project
+#project_four_description: Describe it!
+#project_four_url: https://github.com/jameshamann/jekyll-material-theme
+#project_four_icon: restaurant
 
 portfolio_heading: Portfolio
 portfolio_type: cards
