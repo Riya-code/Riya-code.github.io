@@ -31,7 +31,7 @@ project_three_icon: hotel
 project_four: "Contact:\nrj220699@gmail.com"
 #project_four_description: Describe it!
 #project_four_url: https://github.com/jameshamann/jekyll-material-theme
-#project_four_icon: restaurant
+project_four_icon: restaurant
 
 portfolio_heading: Portfolio
 portfolio_type: cards
