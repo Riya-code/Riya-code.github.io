@@ -11,7 +11,8 @@ display_footer: none #change this to 'none' if you want to hide the footer copyr
 parallax_image_one: assets/images/startup3.jpg # These are the images used for the parallax background
 parallax_image_two: assets/images/startup3.jpg
 
-project_one: "HackerRank:\n rj220699"
+project_one: "HackerRank :
+   rj220699"
 #project_one_description: "HackerRank - rj220699\n JAVA"
 #project_one_url: https://github.com/jameshamann/jekyll-material-theme
 project_one_icon: location_on
@@ -28,7 +29,7 @@ project_three: "GitHub : Riya-code"
 project_three_icon: hotel
 
 
-project_four: "Contact:\n rj220699@gmail.com"
+project_four: "Contact : rj220699@gmail.com"
 #project_four_description: Describe it!
 #project_four_url: https://github.com/jameshamann/jekyll-material-theme
 project_four_icon: restaurant
