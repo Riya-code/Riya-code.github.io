@@ -1,7 +1,7 @@
 title:  Riya Kumari
 name: Riya 
 email: rj220699@gmail.com
-description: Tech Blog
+description: Portfolio
 
 baseurl: "/blog"
 url: "Riya-code.github.io"
@@ -16,7 +16,7 @@ project_one: "HackerRank : rj220699"
 #project_one_url: https://github.com/jameshamann/jekyll-material-theme
 project_one_icon: location_on
 
-project_two: "LinkedIn : https://www.linkedin.com/in/riya-kumari-8639671a1"
+project_two: "LinkedIn : https://www.linkedin.com/in/riya-kumari-lnkdin/"
 #project_two_description: Describe it!
 #project_two_url: https://github.com/jameshamann/jekyll-material-theme
 project_two_icon: photo_camera
@@ -77,7 +77,7 @@ skills:
   #- name: gimp
   - name: git
   - name: github
-  #- name: gitlab
+  - name: gitlab
   #- name: go
   - name: google
   #- name: gradle
@@ -105,7 +105,7 @@ skills:
   #- name: nodewebkit
   #- name: oracle
   #- name: photoshop
-  #- name: php
+  - name: php
   #- name: phpstorm
   #- name: protractor
   #- name: postgresql
@@ -120,7 +120,7 @@ skills:
   #- name: safari
   #- name: sass
   #- name: sequelize
-  #- name: slack
+  - name: slack
   #- name: sourcetree
   #- name: ssh
   #- name: swift
@@ -132,7 +132,7 @@ skills:
   #- name: typescript
   #- name: ubuntu
   #- name: vim
-  #- name: visualstudio
+  - name: visualstudio
   #- name: vuejs
   #- name: webpack
   #- name: webstorm
