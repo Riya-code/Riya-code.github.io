@@ -147,6 +147,7 @@ colored: colored # Leave blank for black and white icons
 #project_button: Github
 
 github: https://github.com/Riya-code
+medium: https://medium.com/@rj220699
 
 
 baseurl: # if your site is located at /blog or /home, enter it here, otherwise leave it empty
